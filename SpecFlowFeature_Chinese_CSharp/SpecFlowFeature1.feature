@@ -9,9 +9,8 @@
 	而且 我已经输入了70到计算器
 	当 我点击求和
 	那么 结果应该显示120
-	但是
 
-
+	
 
 # 参考：https://cucumber.io/docs/reference
 

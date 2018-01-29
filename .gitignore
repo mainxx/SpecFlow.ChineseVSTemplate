@@ -1,0 +1,11 @@
+
+# IDEs and editors
+.vs/
+/.vscode
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+
